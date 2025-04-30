@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CD74HCT4511E
+D High Speed CMOS Logic BCD-to-7 Segment Latch/Decoder/Driver
+K
+F http://www.ti.com/lit/gpn/cd74hct4511
+$ENDCMP
+#
+#End Doc Library

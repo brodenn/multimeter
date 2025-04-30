@@ -1,0 +1,16 @@
+.CD74HCT4511E :1 ;High Speed CMOS Logic BCD-to-7 Segment Latch/Decoder/Driver
+DIP794W53P254L1930H508Q16N
+*STM IC
+*NGS
+*PLB 1="D1" 2="D2" 3="'LT'" 4="'BL'" 5="'LE'" 6="D3" 7="D0" 8="GND" 9="E" 10="D" 11="C" 12="B" 13="A" 14="G" 15="F" 16="VCC"
+*MXP 16
+*DFN CD74HCT4511E
+~!Mouser Part Number (595-CD74HCT4511E)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/CD74HCT4511E?qs=N6WZOzgtpqUA0ArHFw3PWQ%3D%3D)
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (CD74HCT4511E)
+~!Link Datasheet (http://www.ti.com/lit/gpn/cd74hct4511)
+~!Height (5.08mm)
+~!3D_Model (CD74HCT4511E)
+CD74HCT4511E
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 16.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 10.1!U 9.1!U 

@@ -1,0 +1,16 @@
+.4606X-101-103LF :1 ;5-bussed thick film resistor,10K 0.2W Bourns Bussed Resistor Network 10k +/-2% 5 Resistors, 0.75W Total, SIP package 4600X Through Hole
+"4606X102103LF"
+*STM RN
+*NGS
+*PLB 1="1" 2="2" 3="3" 4="4" 5="5" 6="6"
+*MXP 6
+*DFN 4606X-101-103LF
+~!Mouser Part Number (652-4606X-1LF-10K)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/4606X-101-103LF?qs=Qv7qbSW4mEHqAfbN3SBBUw%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (4606X-101-103LF)
+~!Link Datasheet (https://www.bourns.com/pdfs/4600X.pdf)
+~!Height (5mm)
+~!3D_Model (4606X-101-103LF)
+"4606X-101-103LF"
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 

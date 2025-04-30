@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=4606X-101-103LF
+PartCategory=Resistor Network
+PackageCategory=Other
+PinCount=6
+Version=1.2
+Released=2019-08-11 13:26:47
+Downloaded=2024-10-26 14:05:51
+3D=Y

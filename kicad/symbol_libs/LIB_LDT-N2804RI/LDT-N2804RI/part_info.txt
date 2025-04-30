@@ -1,0 +1,9 @@
+Manufacturer=Lumex
+PartNumber=LDT-N2804RI
+PartCategory=Display
+PackageCategory=Dual-In-Line Sockets
+PinCount=12
+Version=2.1
+Released=2019-02-15 05:57:19
+Downloaded=2024-10-26 11:50:59
+3D=Y

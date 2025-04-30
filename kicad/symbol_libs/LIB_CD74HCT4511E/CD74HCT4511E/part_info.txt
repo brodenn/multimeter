@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=CD74HCT4511E
+PartCategory=Integrated Circuit
+PackageCategory=Dual-In-Line Packages
+PinCount=16
+Version=2.1
+Released=2024-07-17 11:55:10
+Downloaded=2024-10-26 13:35:44
+3D=Y
