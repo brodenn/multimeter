@@ -36,10 +36,10 @@ This is my school project where I designed, built, and programmed a fully functi
 ## 📷 Preview
 
 ### PCB Design
-![PCB Design](docs/pcb-design.png)
+![PCB Design](docs/pcb-design.jpg)
 
 ### Assembled Multimeter
-![Assembled Multimeter](docs/assembled-multimeter.png)
+![Assembled Multimeter](docs/assembled-multimeter.jpg)
 
 ---
 
