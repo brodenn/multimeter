@@ -10,7 +10,7 @@ This is my school project where I designed, built, and programmed a fully functi
 
 - 🟢 **Voltage Measurement**
   - Low voltage: 0–5V (direct to ADC)
-  - High voltage: 5–33.7V (voltage divider)
+  - High voltage: 5–33.7V (via voltage divider)
 
 - 🟠 **Resistance Measurement**
   - Low resistance: 0–1kΩ
@@ -18,13 +18,13 @@ This is my school project where I designed, built, and programmed a fully functi
 
 - 🔋 **Battery Monitoring**
   - Detects 9V and 12V sources
-  - Low battery and no battery warnings
+  - Provides low battery and no battery warnings
 
 - 🎛️ **Rotary Switch Mode Selection**
   - Modes detected via 4-bit digital input
 
 - 🔊 **Visual & Audio Feedback**
-  - Green/Yellow/Red LEDs
+  - Green/Yellow/Red LEDs for status indication
   - Buzzer for continuity and battery alerts
 
 - 🔢 **3-Digit 7-Segment Display**
@@ -36,10 +36,10 @@ This is my school project where I designed, built, and programmed a fully functi
 ## 📷 Preview
 
 ### PCB Design
-![PCB Design](docs/pcb-design.jpg)
+![PCB Design](docs/pcb.jpg)
 
 ### Assembled Multimeter
-![Assembled Multimeter](docs/assembled-multimeter.jpg)
+![Assembled Multimeter](docs/multimeter.jpg)
 
 ---
 
@@ -47,8 +47,8 @@ This is my school project where I designed, built, and programmed a fully functi
 
 - Arduino Uno R3
 - KiCad 7+
-- LTspice (simulation)
-- Fluke multimeter (verification)
+- LTspice (for simulation)
+- Fluke multimeter (for verification)
 - Soldering station, protoboard, and banana connectors
 
 ---
