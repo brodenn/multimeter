@@ -35,6 +35,15 @@ This is my school project where I designed, built, and programmed a fully functi
 
 ## 📷 Preview
 
+### Schematic
+![Schematic](docs/schematic.png)
+
+### Top Layer
+![Top Layer](docs/top-layer.png)
+
+### Bottom Layer
+![Bottom Layer](docs/bottom-layer.png)
+
 ### PCB Design
 ![PCB Design](docs/pcb.jpg)
 
