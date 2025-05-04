@@ -1,10 +1,5 @@
 # 🧪 Arduino Multimeter Project
 
-**Author:** Niklas Brodén
-**Course:** Applied Electronics (Yrgo)
-**Instructor:** Erik Jagre
-**Date:** December 18, 2024
-
 This is my school project where I designed, built, and programmed a fully functional digital multimeter using an Arduino Uno and a custom PCB designed in KiCad.
 
 📄 [Click here to read the full report (PDF)](docs/P2-Multimeter-Report.pdf)
@@ -38,12 +33,13 @@ This is my school project where I designed, built, and programmed a fully functi
 
 ---
 
----
-
 ## 📷 Preview
 
-> *(Add this if you include `docs/preview.png`)*
-![PCB Preview](docs/preview.png)
+### PCB Design
+![PCB Design](docs/pcb-design.png)
+
+### Assembled Multimeter
+![Assembled Multimeter](docs/assembled-multimeter.png)
 
 ---
 
